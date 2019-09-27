@@ -13,7 +13,7 @@ By contributing to this repository, we will have fun and get to know each other.
 
 ## Contributors
 
-* **Ehsan Abdulqader** - *Initial work* - [osama-zidsa](https://github.com/osama-zidsa)
+* **Ehsan Abdulqader** - *Initial work* - [EhsanZ](https://github.com/EhsanZ)
 
 ## Acknowledgments
 This repository is based on [Strategy](https://colorlib.com/wp/template/strategy/) free HTML template, thank you guys to make our workshop more fun and richer!
